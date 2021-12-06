@@ -1,5 +1,5 @@
 # nxshell-app
-SSH terminal Android/iOS app base on Flutter xterm.
+- SSH terminal Android/iOS app base on Flutter xterm.
 
 <div align="center">
   <div style="display: flex;justify-content: space-between;">
@@ -8,5 +8,4 @@ SSH terminal Android/iOS app base on Flutter xterm.
   </div>
 </div>
 
-# nxshell-desktop
-An easy to use [new terminal](https://github.com/nxshell/nxshell) for Windows/Linux/MacOS platform. It like Xshell or SecureCRT or PuTTY shell client.
+- More feature please try our [new terminal](https://github.com/nxshell/nxshell) on Windows/Linux/MacOS platform. It like Xshell or SecureCRT or PuTTY shell client.
