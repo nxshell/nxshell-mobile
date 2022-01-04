@@ -9,3 +9,8 @@
 </div>
 
 - More feature please try our [new terminal](https://github.com/nxshell/nxshell) on Windows/Linux/MacOS platform. It like Xshell or SecureCRT or PuTTY shell client.
+
+# How to install
+
+- From google play [download](https://play.google.com/store/apps/details?id=com.nxshell.nxshell)
+- From github release [download](https://github.com/nxshell/nxshell-mobile/releases)
