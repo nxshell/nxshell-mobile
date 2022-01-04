@@ -3,7 +3,7 @@
 
 <div align="center">
   <div style="display: flex;justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/nxshell/nxshell-mobile/main/terminal-cmd.jpg" width="45%"/>
+    <img src="https://raw.githubusercontent.com/nxshell/nxshell-mobile/main/ssh-list.jpg" width="45%"/>
     <img src="https://raw.githubusercontent.com/nxshell/nxshell-mobile/main/terminal.jpg" width="45%"/>
   </div>
 </div>
